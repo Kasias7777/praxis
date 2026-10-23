@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "Start — PRAXIS Marketing Insight" },
+    { "path": "/uslugi/", "title": "Usługi — PRAXIS Marketing Insight" },
+    { "path": "/katalog-produktow/", "title": "Katalog produktów — PRAXIS Marketing Insight" },
+    { "path": "/kontakt/", "title": "Kontakt — PRAXIS Marketing Insight" }
+  ]
+}
